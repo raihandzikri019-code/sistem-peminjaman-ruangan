@@ -70,3 +70,9 @@ Clone repository:
 
 ```bash
 git clone https://github.com/raihandzikri019-code/sistem-peminjaman-ruangan.git
+### Detail Teknologi
+- Laravel sebagai framework utama aplikasi
+- PHP sebagai bahasa pemrograman
+- MySQL sebagai database
+- Blade Template untuk tampilan
+- HTML, CSS, dan JavaScript untuk antarmuka
