@@ -34,13 +34,13 @@ Tujuan dari aplikasi ini adalah:
 
 ## Teknologi yang Digunakan
 
-- **Laravel**
-- **PHP**
-- **MySQL**
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **Blade Template**
+- Laravel
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Blade Template
 
 ## Struktur Sistem
 
