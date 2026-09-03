@@ -76,3 +76,6 @@ git clone https://github.com/raihandzikri019-code/sistem-peminjaman-ruangan.git
 - MySQL sebagai database
 - Blade Template untuk tampilan
 - HTML, CSS, dan JavaScript untuk antarmuka
+
+### Catatan Pengembangan
+Project ini dikembangkan untuk membantu proses peminjaman dan pengelolaan ruangan secara lebih terstruktur.
